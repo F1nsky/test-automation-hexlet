@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/F1nsky/test-automation-hexlet/issues"
   },
-  "homepage": "https://github.com/F1nsky/test-automation-hexlet#readme"
+  "homepage": "https://github.com/F1nsky/test-automation-hexlet#readme",
+  "devDependencies": {
+    "power-assert": "^1.6.1"
+  }
 }
